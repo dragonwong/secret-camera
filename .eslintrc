@@ -1,0 +1,11 @@
+{
+  "extends": "eslint-config-rnx",
+  "rules": {
+    "new-cap": [
+      "error",
+      {
+        "capIsNew": false
+      }
+    ]
+  }
+}

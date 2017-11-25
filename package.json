@@ -1,0 +1,24 @@
+{
+  "name": "secret-camera",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "eslint": "echo \"Checking code style, please wait ...\" && eslint ./src *.js --cache"
+  },
+  "dependencies": {
+    "autobind-decorator": "^2.1.0",
+    "expo": "^22.0.0",
+    "prop-types": "^15.6.0",
+    "react": "16.0.0-beta.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.1.tar.gz",
+    "react-navigation": "^1.0.0-beta.12",
+    "react-redux": "^5.0.6",
+    "rnx-ui": "0.18.0"
+  },
+  "devDependencies": {
+    "eslint-config-rnx": "*"
+  }
+}

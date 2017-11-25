@@ -1,0 +1,11 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# eslint-cache
+#
+.eslintcache
